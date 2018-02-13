@@ -71,6 +71,13 @@
 .content{
 
 }
+
+.portfolio{
+    background-color: #33404e;
+
+    position: relative;
+    overflow: hidden;
+}
 .port_wrapper {
     position: relative;
     z-index: 200;
