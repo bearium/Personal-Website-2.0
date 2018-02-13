@@ -66,3 +66,31 @@
     background-image: url(style/img/me.jpg);
     background-size: cover;
 }
+
+
+
+.port_wrapper {
+    position: relative;
+    z-index: 200;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-top: 150px;
+    padding-bottom: 200px;
+}
+
+
+.port_title{
+    margin-top: 20px;
+    color: white;
+    font-weight: 300;
+    font-size: 50px;
+}
+
+.port_description{
+    padding-left: 20px;
+    color: white;
+    font-weight: 100;
+    font-size: 25px;
+
+}
