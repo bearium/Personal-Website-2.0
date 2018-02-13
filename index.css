@@ -53,3 +53,14 @@
     font-weight: 100;
     font-size: 20px;
 }
+
+.hero__photo {
+    margin-top: 90px;
+    float: right;
+    position: relative;
+    width: 280px;
+    height: 280px;
+    border-radius: 150px;
+    background-image: url(style/img/me.jpg);
+    background-size: cover;
+}
