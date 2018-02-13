@@ -85,7 +85,7 @@
 
 
 .port_title{
-    margin-top: 20px;
+    margin-top: 5px;
     color: white;
     font-weight: 300;
     font-size: 50px;
@@ -97,4 +97,34 @@
     font-weight: 100;
     font-size: 25px;
 
+}
+
+
+.resume{
+    background-color: rebeccapurple;
+
+    position: relative;
+    overflow: hidden;
+}
+
+.resume_wrapper{
+    position: relative;
+    z-index: 200;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-top: 150px;
+}
+
+.resume_frame{
+    position: center;
+    width: 80%;
+    height: 800px;
+    overflow: hidden;
+
+}
+
+.resume_dl{
+    width: 30%;
+    height: 30%;
 }
