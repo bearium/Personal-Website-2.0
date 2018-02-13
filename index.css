@@ -1,3 +1,9 @@
+
+.github{
+
+}
+
+
 .me {
     position: fixed;
     top: 0;
@@ -103,7 +109,6 @@
 
 .resume{
     background-color: rebeccapurple;
-
     position: relative;
     overflow: hidden;
 }
